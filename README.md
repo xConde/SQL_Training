@@ -7,3 +7,5 @@ PostgresSQL relational database management system was utilized in this exercise,
 ### Databases Used:
 ####  dvdrental.tar
 Provides Tables: actor, address, category, city, country, customer, film, film_actor, film_category, inventory, language, payment, rental, staff, store.
+####  exercises.tar
+Provides Tables: bookings, facilities, members. 
